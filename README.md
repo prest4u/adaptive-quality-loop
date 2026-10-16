@@ -33,6 +33,10 @@ remain predictable.
 - `Use $adaptive-quality-loop to implement this change with the smallest sufficient verification.`
 - `Prepare this exact commit for release and keep reviewer sign-off separate from publication.`
 
+## Current invocation
+
+Invoke this Skill explicitly for a consequential uncertainty, missing verification, or repeated failure. Ordinary implementation tasks do not invoke it automatically. Host and task policy controls authorization, review, and completion.
+
 ## How it works
 
 Read [`SKILL.md`](SKILL.md) for the authoritative trigger boundary, workflow, stop conditions, and completion
